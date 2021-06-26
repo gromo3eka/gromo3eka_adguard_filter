@@ -1,0 +1,58 @@
+ssh.com###hs-eu-cookie-confirmation
+uk.esotericcosmos.com###dom_article_body > div.ag-box:nth-child(4)
+uk.esotericcosmos.com###dom_article_body > div.ag-box:nth-child(10)
+@@||elearn.epam.com^$important,document
+@@||onboarding.epam.com^$important,document
+@@||www.carrefour.pl^$important,document
+olx.pl###onetrust-consent-sdk
+olx.pl###div-gpt-ad-listing-top2
+olx.pl###body-container > div.wrapper:last-child > div.content > div.rel.listHandler:first-child > div.rel:first-child
+olx.pl###div-gpt-ad-listing-top2-baxter-refresh
+olx.pl###skycraper
+poland2day.com###td-outer-wrap > div.td-header-wrap.td-header-style-1:first-child > div.td-banner-wrap-full.td-logo-wrap-full.td-container-wrap.td_stretch_container:nth-child(2) > div.td-container.td-header-row.td-header-header > div.td-header-sp-recs:last-child
+poland2day.com###post-12167 > div.td-post-content:nth-child(3) > div.td-g-rec.td-g-rec-id-content_inline.td_uid_2_5ff2b67f5d121_rand.td_block_template_1:nth-child(6)
+visa-help.com.ua###post-33 > div.code-block.code-block-1:nth-child(2)
+visa-help.com.ua###post-33 > div.code-block.code-block-2:first-child
+poland2day.com###aswift_6
+poland2day.com###td_uid_4_5ff2ce8ddf3ef > div.vc_row.td_uid_6_5ff2ce8ddf427_rand.td-ss-row.wpb_row.td-pb-row > div.vc_column.td_uid_29_5ff2ce8e085b9_rand.wpb_column.vc_column_container.td-pb-span4:last-child
+poland2day.com###td-outer-wrap > div.td-main-content-wrap.td-main-page-wrap.td-container-wrap:nth-child(2) > div.tdc-content-wrap:first-child > div.google-auto-placed:nth-child(2)
+*.googleadservices.com/*
+poland2day.com##div.td-more-articles-box.td-front-end-display-block:nth-child(14)
+*.googlesyndication.com/*
+@@||telescope.epam.com^$important,document
+@@||desk.epam.com^$important,document
+*google_ads*
+ukr.net##.advertisement-block
+@@||login.epam.com^$important,document
+thetvdb.com###aswift_1_expand
+thetvdb.com##div.container:nth-child(4) > div.row:nth-child(3) > div.col-xs-12.col-sm-12.col-md-8.col-lg-8:first-child > ins.adsbygoogle:nth-child(3)
+https://www.googleadservices.com/pagead/*
+@@||www.concursolutions.com^$important,document
+@@||192.168.1.110^$important,document
+@@||www.pyszne.pl^$important,document
+@@||bw.assist.ubs.com^$important,document
+@@||system.mybenefit.pl^$important,document
+@@||pl.everli.com^$important,document
+@@||eldorado.ua^$important,document
+@@||comfy.ua^$important,document
+@@||portalpacjenta.luxmed.pl^$important,document
+glovoapp.com###__layout > div > div.modal-overlay:last-child
+@@||glovoapp.com^$important,document
+@@||konto.play.pl^$important,document
+@@||www.play.pl^$important,document
+bbc.com###main-wrapper > header:first-child > div.css-n7zdg2.e1nbsi9l0:first-child > div.css-jj8dpr.e1o5up6o5
+@@||g.sushicraft.pl^$important,document
+@@||wizzair.com^$important,document
+@@||umawianiewizyt.um.krakow.pl^$important,document
+@@||www.speedtest.net^$important,document
+@@||192.168.0.1^$important,document
+@@||megogo.net^$important,document
+@@||www.zdnet.com^$important,document
+@@||my.stava.pl^$important,document
+@@||www.themoviedb.org^$important,document
+@@||www.ipko.pl^$important,document
+@@||www.youtube.com^$important,document
+@@||www.aliexpress.com^$important,document
+@@||campaign.aliexpress.com^$important,document
+@@||mag.ubs.com^$important,document
+@@||eurointegration.com.ua^
